@@ -4,11 +4,13 @@
 
 ## 安装
 
-双击 `install-grokbot-avatar.cmd`。脚本会把 `grokbot-avatar` 文件夹复制到：
+（对于Codex）双击 `install-grokbot-avatar.cmd`。脚本会把 `grokbot-avatar` 文件夹复制到：
 
 ```text
 %USERPROFILE%\.codex\skills\grokbot-avatar
 ```
+
+手动安装则直接将 `grokbot-avatar` 文件夹复制到skills文件夹中
 
 ## 检验
 
