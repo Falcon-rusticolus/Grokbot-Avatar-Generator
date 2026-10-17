@@ -1,14 +1,16 @@
 # grokbot-avatar
 
-把一张人物照片转换成与三张参考图一致的 grokbot 风格方形头像。
+把一张人物照片转换成 grokbot 风格方形头像。
 
 ## 安装
 
-双击本目录中的 `install-grokbot-avatar.cmd`。脚本会把 `grokbot-avatar` 文件夹复制到：
+双击 `install-grokbot-avatar.cmd`。脚本会把 `grokbot-avatar` 文件夹复制到：
 
 ```text
 %USERPROFILE%\.codex\skills\grokbot-avatar
 ```
+
+## 检验
 
 安装后在下一次对话中说：
 
